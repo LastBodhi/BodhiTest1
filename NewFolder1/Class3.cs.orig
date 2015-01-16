@@ -5,7 +5,13 @@ using System.Text;
 
 namespace ConsoleApplication1.NewFolder1
 {
-    class Class2
+    class Class3
     {
+<<<<<<< HEAD
+            testc11111
+=======
+            test2222222222222
+
+>>>>>>> LeeTest2
     }
 }
