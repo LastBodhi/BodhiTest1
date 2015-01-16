@@ -8,5 +8,6 @@ namespace ConsoleApplication1.NewFolder1
     class Class1
     {
             System.DayOfWeek();
+            System.Deployment();
     }
 }
