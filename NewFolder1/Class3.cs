@@ -5,8 +5,8 @@ using System.Text;
 
 namespace ConsoleApplication1.NewFolder1
 {
-    class Class3
-    {
-            testc11111
+    Class Class3    {
+            test2222222222222
+
     }
 }
